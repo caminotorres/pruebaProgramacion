@@ -5,5 +5,5 @@ de JavaScripy la imagen, si quiere probarlo solo tiene que descomentar estos dos
 Instalación:
 -Descargar el proyecto e importar la base de datos, yo he utilizado phpMyAdmin para creala
 -Usar un entorno de desarrollo para poder ver el código
--Guardar en su localhost el proyecto, poner la url que en mi caso es: http://localhost/promocion y probarlo
+-Guardar en su localhost el proyecto, poner la url que en mi caso es: http://localhost/promocion y probarlo.
 Un saludo.
